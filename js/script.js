@@ -104,6 +104,8 @@
     }
     return svg4everybody;
 });
+svg4everybody();
+
 var promoSlider = document.querySelectorAll('.promo-block');
 var bigDemo = document.querySelector('.big-demo');
 var sliderButton = document.querySelectorAll('.slider-buttons__radio-button');
